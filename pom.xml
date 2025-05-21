@@ -99,7 +99,6 @@
 			<artifactId>lombok</artifactId>
 			<optional>true</optional>
 		</dependency>
-
 		<!-- https://mvnrepository.com/artifact/com.sun.mail/jakarta.mail -->
 		<dependency>
 			<groupId>org.eclipse.angus</groupId>
